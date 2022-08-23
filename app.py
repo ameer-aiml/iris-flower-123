@@ -18,3 +18,4 @@ op = model.predict([[sl,sw,pl,pw]])
 op = label[op[0]]
 
 st.title(f'The flower species is {op}')
+ 
